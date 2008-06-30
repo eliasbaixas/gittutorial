@@ -6,6 +6,7 @@
  *
  * Part III Project at University of Southampton, UK
  * Alex Walker - javascript@soton.net
+ * not very stable, just trying out...
  *
  * Created 980129
  */
